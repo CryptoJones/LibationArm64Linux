@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIw1jUzz5nIdC4DBRy4t5GQiUODPdqDlMbyG6D4x6kDs7TlOrsKVGadDlRgnkTOEeZ72AX8PFhV2/an00h2v3g==",
+  "success": true,
+  "projectFilePath": "/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/WindowsConfigApp/WindowsConfigApp.csproj",
+  "expectedPackageFiles": [
+    "/home/akclark/.nuget/packages/dinah.core/7.2.2.1/dinah.core.7.2.2.1.nupkg.sha512",
+    "/home/akclark/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.extensions.configuration/2.0.0/microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.extensions.configuration.abstractions/2.0.0/microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.extensions.configuration.binder/2.0.0/microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.extensions.dependencymodel/3.0.0/microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/akclark/.nuget/packages/pluralize.net/1.0.2/pluralize.net.1.0.2.nupkg.sha512",
+    "/home/akclark/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/serilog.settings.configuration/3.4.0/serilog.settings.configuration.3.4.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/serilog.sinks.console/4.1.0/serilog.sinks.console.4.1.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.serviceprocess.servicecontroller/7.0.0/system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/home/akclark/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.5/microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

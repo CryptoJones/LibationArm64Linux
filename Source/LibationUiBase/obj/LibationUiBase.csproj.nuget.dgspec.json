@@ -1,0 +1,757 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationUiBase/LibationUiBase.csproj": {}
+  },
+  "projects": {
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj",
+        "projectName": "AaxDecrypter",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AAXClean.Codecs": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/AppScaffolding.csproj": {
+      "version": "10.2.1.1",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/AppScaffolding.csproj",
+        "projectName": "AppScaffolding",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/AppScaffolding.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Octokit": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Serilog.Sinks.ZipFile": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj",
+        "projectName": "ApplicationServices",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/DtoImporterService.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/DtoImporterService.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/LibationSearchEngine.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/LibationSearchEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj",
+        "projectName": "AudibleUtilities",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AudibleApi": {
+              "target": "Package",
+              "version": "[8.4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dinah.Core": {
+              "target": "Package",
+              "version": "[7.2.2.1, )"
+            },
+            "Dinah.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/DtoImporterService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/DtoImporterService.csproj",
+        "projectName": "DtoImporterService",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/DtoImporterService.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DtoImporterService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/FileLiberator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/FileLiberator.csproj",
+        "projectName": "FileLiberator",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/FileLiberator.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AudibleUtilities/AudibleUtilities.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj",
+        "projectName": "FileManager",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dinah.Core": {
+              "target": "Package",
+              "version": "[7.2.2.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj",
+        "projectName": "LibationFileManager",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AaxDecrypter/AaxDecrypter.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/FileManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NameParserSharp": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/LibationSearchEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/LibationSearchEngine.csproj",
+        "projectName": "LibationSearchEngine",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/LibationSearchEngine.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationSearchEngine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/DataLayer.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationFileManager/LibationFileManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LuceneNet303r2": {
+              "target": "Package",
+              "version": "[3.0.3.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationUiBase/LibationUiBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationUiBase/LibationUiBase.csproj",
+        "projectName": "LibationUiBase",
+        "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationUiBase/LibationUiBase.csproj",
+        "packagesPath": "/home/akclark/.nuget/packages/",
+        "outputPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/LibationUiBase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akclark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/AppScaffolding.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/AppScaffolding/AppScaffolding.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/ApplicationServices/ApplicationServices.csproj"
+              },
+              "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/FileLiberator.csproj": {
+                "projectPath": "/home/akclark/Source/repos/LibationArm64Linux/Source/FileLiberator/FileLiberator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.linux-arm64",
+              "version": "[7.0.5, 7.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/akclark/Source/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

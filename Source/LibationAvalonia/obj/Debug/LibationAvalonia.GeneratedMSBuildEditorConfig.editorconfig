@@ -1,0 +1,163 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibationAvalonia
+build_property.ProjectDir = /home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/CheckedListBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/DirectoryOrCustomSelectControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/DirectorySelectControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/GroupBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/LinkLabel.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/MyRatingCellEditor.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/Settings/Audio.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/Settings/DownloadDecrypt.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/Settings/Import.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/Settings/Important.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Controls/WheelComboBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/AboutDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/AccountsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/BookDetailsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/BookRecordsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/DescriptionDisplayDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/EditQuickFilters.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/EditReplacementChars.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/EditTemplateDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/ImageDisplayDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/LibationFilesDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/LiberatedStatusBatchAutoDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/LiberatedStatusBatchManualDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/LocateAudiobooksDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/ApprovalNeededDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/CaptchaDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/LoginCallbackDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/LoginChoiceEagerDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/LoginExternalDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/MfaDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/WebLoginDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/Login/_2faCodeDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/MessageBoxAlertAdminDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/MessageBoxWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/ScanAccountsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/SearchSyntaxDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/SettingsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/SetupDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/TagsBatchDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/TrashBinDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Dialogs/UpgradeNotificationDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/LiberateStatusButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/ProcessBookControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/ProcessQueueControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/ProductsDisplay.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/SeriesViewDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/akclark/Source/repos/LibationArm64Linux/Source/LibationAvalonia/Views/SeriesViewGrid.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

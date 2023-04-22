@@ -1,0 +1,14 @@
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/bin/Debug/CrossPlatformClientExe
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/bin/Debug/CrossPlatformClientExe.deps.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/bin/Debug/CrossPlatformClientExe.runtimeconfig.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/bin/Debug/CrossPlatformClientExe.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.csproj.AssemblyReference.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.GeneratedMSBuildEditorConfig.editorconfig
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.AssemblyInfoInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.AssemblyInfo.cs
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.csproj.CoreCompileInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.csproj.CopyComplete
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/refint/CrossPlatformClientExe.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/CrossPlatformClientExe.genruntimeconfig.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/_Demos/LoadByOS/CrossPlatformClientExe/obj/Debug/ref/CrossPlatformClientExe.dll

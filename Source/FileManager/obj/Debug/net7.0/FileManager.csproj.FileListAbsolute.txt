@@ -1,0 +1,10 @@
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/bin/Debug/net7.0/FileManager.deps.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/bin/Debug/net7.0/FileManager.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.csproj.AssemblyReference.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.AssemblyInfoInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.AssemblyInfo.cs
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.csproj.CoreCompileInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/FileManager.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/refint/FileManager.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/FileManager/obj/Debug/net7.0/ref/FileManager.dll

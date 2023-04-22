@@ -1,0 +1,13 @@
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/bin/Debug/net7.0/migrate.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/bin/Debug/net7.0/DataLayer.deps.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/bin/Debug/net7.0/DataLayer.runtimeconfig.json
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/bin/Debug/net7.0/DataLayer.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.csproj.AssemblyReference.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfoInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.AssemblyInfo.cs
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.csproj.CoreCompileInputs.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/refint/DataLayer.dll
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/DataLayer.genruntimeconfig.cache
+/home/akclark/Source/repos/LibationArm64Linux/Source/DataLayer/obj/Debug/net7.0/ref/DataLayer.dll
